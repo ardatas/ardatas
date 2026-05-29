@@ -18,12 +18,6 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 | **GPU Computing** *(Self-directed)* | CUDA architecture, kernel optimisation, memory hierarchy, CuTe | 🔵 Building |
 ---
 
-## What I'm watching
-
-`MLIR` `CuTe / CUTLASS` `AI inference hardware` `Agentic AI` `Triton` `Custom accelerators` `HPC in Germany`
-
----
-
 ## Shipped
 
 **[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, deployed and live  
