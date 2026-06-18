@@ -21,7 +21,7 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 ## Shipped
 
 **[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, deployed and live  
-`Spring Boot` · `Docker` · `Auth` · `Waitlist`
+`Spring Boot` · `Docker` · `Auth` 
 
 ---
 
