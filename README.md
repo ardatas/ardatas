@@ -6,22 +6,9 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 ![Location](https://img.shields.io/badge/Munich-Germany-378ADD?style=flat)
 ![Goal](https://img.shields.io/badge/Aspiring-GPU_Systems_Engineer-7F77DD?style=flat)
 ---
-
-## What I'm learning
-
-| Area | Topics | Status |
-|------|---------|--------|
-| **C & Systems** *(GdP / Rechnerarchitektur)* | Memory management, pointers, computer architecture | 🟢 Active |
-| **Parallel Programming** *(IN2147)* | Threads, synchronisation, OpenMP, MPI, GPU concepts | 🟢 Active |
-| **Algorithms & DSA** *(Self-directed)* | Sorting, trees, graphs, complexity analysis | 🟢 Active |
-| **Math Foundations** *(TUM courses)* | Linear algebra, probability theory, discrete math | 🟢 Active |
-| **GPU Computing** *(Self-directed)* | CUDA architecture, kernel optimisation, memory hierarchy, CuTe | 🔵 Building |
----
-
 ## Shipped
 
-**[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, deployed and live  
-`Spring Boot` · `Docker` · `Auth` 
+**[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, live  
 
 ---
 
