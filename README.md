@@ -9,6 +9,6 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 ## Shipped
 
 **[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, live  
-**[TBC Hackathon 2026](https://hackathon.tum-blockchain.com)** - Check out our Hackathon upcoming in late October!]
-**[TBC Trading Challenge ](https://trading-challenge-website-web.vercel.app)** - TBC Trading Challenge, more to be announced!]
+**[TBC Hackathon 2026](https://hackathon.tum-blockchain.com)** - Check out our Hackathon upcoming in late October!
+**[TBC Trading Challenge ](https://trading-challenge-website-web.vercel.app)** - TBC Trading Challenge, more to be announced!
 
