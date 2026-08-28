@@ -9,12 +9,6 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 ## Shipped
 
 **[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, live  
-
----
-
-## Long-term goal
-
-> Specialise in GPU kernel engineering and AI inference optimisation —  
-> writing performance-critical CUDA code, tuning memory hierarchies,  
-> and working at the intersection of hardware architecture and systems software.  
+**[TBC Hackathon 2026](https://hackathon.tum-blockchain.com)** - Check out our Hackathon upcoming in late October!]
+**[TBC Trading Challenge ](https://trading-challenge-website-web.vercel.app)** - TBC Trading Challenge, more to be announced!]
 
