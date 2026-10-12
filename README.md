@@ -8,6 +8,8 @@ CS @ TUM · Interested in GPU computing & AI infrastructure
 ---
 ## Shipped
 
+**[Larp Your Resume](https://larpyourresume.com)** — Use AI to build the most suitable CV for your job application. 
+
 **[Werkio](https://getwerkio.com)** — Full-stack Spring Boot app, live 
 
 **[TBC Hackathon 2026](https://hackathon.tum-blockchain.com)** - Check out our Hackathon upcoming in late October!
