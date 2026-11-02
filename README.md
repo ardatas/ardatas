@@ -8,5 +8,5 @@ CS @ TUM
 ---
 
 
-![Personal Website](https://ardatas.com)
+[Personal Website](https://ardatas.com)
 
